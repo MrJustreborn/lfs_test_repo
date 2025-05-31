@@ -1,2 +1,2 @@
 [lfs]
-	url = http://localhost:5000
+	url = http://user:password@localhost:5000

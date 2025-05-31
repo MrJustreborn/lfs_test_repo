@@ -1,2 +1,2 @@
 [lfs]
-	url = https://nexus.bitrot.eu/repository/git_lfs/info/lfs
+	url = https://localhost:5000
